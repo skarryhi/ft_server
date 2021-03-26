@@ -20,4 +20,4 @@ docker run -p 80:80 -p 443:443 -it server
 
 👩🏻‍💼 **[Skarryhi](https://github.com/skarryhi/)**
 
-🏠 [Homepage](https://github.com/skarryhi/Get-Next-Line)
+🏠 [Homepage](https://github.com/skarryhi/ft_server)
